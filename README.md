@@ -1,7 +1,7 @@
 # Chat-App - using SignalR, .Net, Angular
 
 ## Developed fully by Numan, for company Icicle Corporation.
-## Please note that, I have not added the project's source code to this repo, because that is Icicle's property. However, I have added screenshots of the app so that you can see my work. 
+## Please note that, I have not added the project's source code to this repo, because that is Icicle's property. However, Only Screenshots of the app are here so that you can see my work. 
 
 ## The app is a live chat app between customers of various websites and agents.
 
