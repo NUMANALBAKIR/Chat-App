@@ -17,7 +17,7 @@
 #### Agent Log In page, with validations -
 ![test image](https://raw.githubusercontent.com/NUMANALBAKIR/Chat-App/main/screenshots/4.JPG)
 
-#### Agent's messenger page. Unread message notifications are displayed. Also, new customer can be attended by clicking the green notification button -
+#### Agent's messenger page. Unread message notifications are displayed. Also, new customer can be attended by clicking the green button -
 ![test image](https://raw.githubusercontent.com/NUMANALBAKIR/Chat-App/main/screenshots/5.png)
 
 #### Disconnections, reconnections are gracefully handled and data is synched upon reconnection -
