@@ -3,8 +3,6 @@
 ### Developed fully by Numan, for company Icicle Corporation.
 ### Please note that, I have not added the project's source code to this repo, because that is Icicle's property. Only screenshots of the app are here so that you can see my work. 
 
-### The app is a live chat app between customers of various websites and agents.
-
 #### Customer's chat box - un-opened -
 ![test image](https://raw.githubusercontent.com/NUMANALBAKIR/Chat-App/main/screenshots/1.JPG)
 
