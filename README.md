@@ -1,6 +1,7 @@
 # Customer-care Chat-App - using SignalR, .Net Core API & MVC, Angular
 
 ### Developed fully by Numan, for company Icicle Corporation.
+### Please Note, <ins>localhost</ins> on images' browser address bar and my name on the images. These ensure that I developed this app.
 ### Please note that, I have not added the project's source code to this repo, because that is Icicle's property. Only screenshots of the app are here so that you can see my work. 
 
 #### Customer's chat box - un-opened -
